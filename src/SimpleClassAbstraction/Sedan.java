@@ -1,4 +1,4 @@
-package Abstraction;
+package SimpleClassAbstraction;
 
 public class Sedan extends Car{
     @Override
